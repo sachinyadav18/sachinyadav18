@@ -6,11 +6,11 @@ U can check me out at my linkedin and connect with me at https://www.linkedin.co
 
 
 
-2
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sachinyadav&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
